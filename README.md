@@ -58,19 +58,6 @@ Virtual-STEM-Lab/
 
 ---
 
-## 🔐 Note
-
-- API keys (if used) should not be shared publicly  
-- Virtual environment (`venv/`) is included for development purposes  
-
----
-
-## 👨‍💻 Author
-
-**Mrunal Patil**  
-
----
-
 ## ⭐ Future Enhancements
 
 - Add more experiments  
